@@ -1,4 +1,5 @@
 # vue-tiptap-sample
+Vue.jsとtiptapでエディタを作ったサンプル
 
 ## Project setup
 ```
